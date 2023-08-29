@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">I'm Isa Enes Uslu 🤠<br><br>- 🔭 I’m working as Full-Stack Developer.<br>- 📚 I'm currently learning JavaScript, Node.JS, Linux & Bash.<br>- ⚡ In my free time I do sports, reading book, i try to produce music :p<br>- 🎧 I usually listen to country and alternative hip hop.</p>
+<p align="left">I'm Isa Enes Uslu<br><br>- 🔭 I’m working as Full-Stack Developer.<br>- 📚 I'm currently learning JavaScript, Node.JS, Linux & Bash.<br>- ⚡ In my free time I do sports, reading book, i try to produce music :p<br>- 🎧 I usually listen to country and alternative hip hop.</p>
 
 ###
 
