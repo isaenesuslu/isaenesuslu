@@ -47,7 +47,9 @@
 
 ###
 
-<img align="right" height="167" src="https://images.squarespace-cdn.com/content/v1/56af9236b6aa60cdf1c52b4b/1464950341113-VN4PQR9DU6LSKDIVHPGI/image-asset.gif"  />
+<br clear="both">
+
+<img align="right" height="157" src="https://images.squarespace-cdn.com/content/v1/56af9236b6aa60cdf1c52b4b/1464950341113-VN4PQR9DU6LSKDIVHPGI/image-asset.gif"  />
 
 ###
 
