@@ -49,7 +49,7 @@
 
 <br clear="both">
 
-<img align="right" height="157" src="https://images.squarespace-cdn.com/content/v1/56af9236b6aa60cdf1c52b4b/1464950341113-VN4PQR9DU6LSKDIVHPGI/image-asset.gif"  />
+<img align="right" height="167" src="https://images.squarespace-cdn.com/content/v1/56af9236b6aa60cdf1c52b4b/1464950341113-VN4PQR9DU6LSKDIVHPGI/image-asset.gif"  />
 
 ###
 
@@ -76,11 +76,5 @@
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="31" alt="discord logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/isaenesuslu/isaenesuslu/output/snake.svg" alt="Snake animation" />
 
 ###
