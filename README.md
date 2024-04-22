@@ -5,4 +5,4 @@ Technologies used in the projects:
 
 <img src="https://media.tenor.com/NeJfHqkmdMIAAAAi/tux-linux-penguin.gif"></img>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?isaenesuslu=isaenesuslu&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?isaenesuslu=&theme=tokyonight)
