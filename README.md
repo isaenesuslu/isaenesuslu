@@ -33,5 +33,5 @@ Interests = ["C", "C++", "PostgreSQL"]
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjAzZDM4M2Y2OWU3M2FjYzBjODg1MDE1ZTQ5YjE3YzY3OWI1ZGRjNCZjdD1n/vpGfKQd2R7i9q/giphy.gif" alt="Pixel Western" width="100%" />
+  <img src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjAzZDM4M2Y2OWU3M2FjYzBjODg1MDE1ZTQ5YjE3YzY3OWI1ZGRjNCZjdD1n/vpGfKQd2R7i9q/giphy.gif](https://mir-s3-cdn-cf.behance.net/project_modules/hd/783e5d96837539.5eb78c00b75e2.gif)" alt="Pixel Western" width="100%" />
 </div>
