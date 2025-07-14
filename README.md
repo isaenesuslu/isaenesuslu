@@ -1,4 +1,4 @@
-## 🇬🇧 Hi, I'm İsa Enes Uslu! 
+## 👋 Hey there! 
 > _A code and robot enthusiast who loves to jam with his guitar!_ 🤖🎸
 
 ### 🧑‍💻 Quick Facts About Me
@@ -19,7 +19,7 @@ Interests = ["C", "C++", "PostgreSQL"]
 ### 🌐 Social Media (Follow Me!)
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](your-link-here)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](your-link-here)
+[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](your-link-here)
 [![Mastodon](https://img.shields.io/badge/Mastodon-6364FF?style=flat&logo=mastodon&logoColor=white)](your-link-here)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](your-link-here)
 
