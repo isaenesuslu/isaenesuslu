@@ -25,13 +25,6 @@ Interests = ["C", "C++", "PostgreSQL"]
 
 ---
 
-## 🦸 Fun Fact / Eğlenceli Gerçek
-
-> 🎲 “Bir robotun hayali: Bir gün kendi kodunu yazmak!”  
-> 🤠 Her gün yeni bir şey öğreniyorum!
-
----
-
 <div align="center">
   <img src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/783e5d96837539.5eb78c00b75e2.gif" alt="Pixel Guitar Boy" width="100%" />
 </div>
