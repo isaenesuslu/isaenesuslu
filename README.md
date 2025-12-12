@@ -11,7 +11,7 @@
 
 My journey in the software world began intensely with **Web Programming**, where I gained solid experience in modern web technologies. However, my desire to dive deeper into technology and my curiosity about the underlying logic of machines shifted my route to the intersection of hardware and software.
 
-Currently, I am actively working on **System Programming, Driver Development, Robotics, and Embedded Systems**. I enjoy working where the code meets the metal.
+Currently, I am actively working on **System Programming, Driver Development, Robotics, Artificial Intelligence, and Embedded Systems**. I enjoy working where the code meets the metal.
 
 For me, **Linux** and the **Open Source** world are not just tools, but the center of my development culture. I believe in the power of free software and that knowledge grows when shared.
 
@@ -32,6 +32,11 @@ Here are the languages, libraries, and development environments I actively use i
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
+#### System & DevOps
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Makefile](https://img.shields.io/badge/makefile-%23000000.svg?style=for-the-badge&logo=gnu-make&logoColor=white)
+
 #### Editors & IDE
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -41,6 +46,14 @@ Here are the languages, libraries, and development environments I actively use i
 
 ### 📊 Connect with Me
 
-Thank you for visiting. I am always open to collaborating on open-source projects or brainstorming on system programming.
+<div align="center">
 
-[**LinkedIn**](https://linkedin.com/in/isaenesuslu) | [**Email Me**](mailto:isaenesuslu@gmail.com)
+<a href="https://linkedin.com/in/isaenesuslu">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+&nbsp;
+<a href="mailto:isaenesuslu@outlook.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+
+</div>
