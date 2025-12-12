@@ -2,7 +2,6 @@
   <img src="https://media.tenor.com/NeJfHqkmdMIAAAAj/tux-linux-penguin.gif" width="150" alt="Cute Linux Tux" />
 </div>
 
-
 > *"My mission is to make human life more efficient and optimized through technology."*
 
 ---
@@ -33,6 +32,7 @@ Here are the languages, libraries, and development environments I actively use i
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 #### System & DevOps
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Makefile](https://img.shields.io/badge/makefile-%23000000.svg?style=for-the-badge&logo=gnu-make&logoColor=white)
@@ -52,8 +52,8 @@ Here are the languages, libraries, and development environments I actively use i
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 &nbsp;
-<a href="mailto:isaenesuslu@outlook.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+<a href="mailto:isaenesuslu@outook.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
 </div>
