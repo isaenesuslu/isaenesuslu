@@ -2,8 +2,6 @@
   <img src="https://media.tenor.com/NeJfHqkmdMIAAAAj/tux-linux-penguin.gif" width="150" alt="Cute Linux Tux" />
 </div>
 
-# Hello, I'm Isa Enes Uslu 👋
-
 > *"My mission is to make human life more efficient and optimized through technology."*
 
 ---
