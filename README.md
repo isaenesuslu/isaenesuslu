@@ -46,14 +46,10 @@ Here are the languages, libraries, and development environments I actively use i
 
 ### 📊 Connect with Me
 
-<div align="center">
+<div>
 
 <a href="https://linkedin.com/in/isaenesuslu">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-&nbsp;
-<a href="mailto:isaenesuslu@outook.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
 </div>
