@@ -1,14 +1,10 @@
-<div align="center">
-  <img src="https://media.tenor.com/NeJfHqkmdMIAAAAj/tux-linux-penguin.gif" width="150" alt="Cute Linux Tux" />
-</div>
-
 > *"My mission is to make human life more efficient and optimized through technology."*
 
 ---
 
 ### 👨‍💻 About Me
 
-My journey in the software world began intensely with **Web Programming**, where I gained solid experience in modern web technologies. However, my desire to dive deeper into technology and my curiosity about the underlying logic of machines shifted my route to the intersection of hardware and software.
+My journey in the software world began intensely with **Web Development**, where I gained solid experience in modern web technologies. However, my desire to dive deeper into technology and my curiosity about the underlying logic of machines shifted my route to the intersection of hardware and software.
 
 Currently, I am actively working on **System Programming, Driver Development, Robotics, Artificial Intelligence, and Embedded Systems**. I enjoy working where the code meets the metal.
 
