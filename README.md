@@ -38,7 +38,7 @@ For me, **Linux** and the **Open Source** world are not just tools, but the cent
       <img src="https://img.shields.io/badge/VS_Code-0078d7.svg?style=flat&logo=visualstudiocode&logoColor=white&cache=1" alt="VS Code">
     </td>
         <td valign="middle" align="center" width="25%">
-     <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWh5bGZ3bDA0azdzYmVlbHBoZzJlNzYzODBndXpmbWtsaGphdzhlbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3lurIRCIRl8Hyl56TQ/giphy.gif" width="110">
+     <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWh5bGZ3bDA0azdzYmVlbHBoZzJlNzYzODBndXpmbWtsaGphdzhlbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3lurIRCIRl8Hyl56TQ/giphy.gif" width="140">
     </td>
   </tr>
 </table>
