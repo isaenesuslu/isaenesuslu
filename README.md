@@ -1,6 +1,5 @@
-### Hello, I'm Isa <img src="https://media.tenor.com/ZCET1qU4jhAAAAAj/cat-coffee.gif" width="64" align="absmiddle">
-
 > *"My mission is to make human life more efficient and optimized through technology."*
+### Hello, I'm Isa <img src="https://media.tenor.com/ZCET1qU4jhAAAAAj/cat-coffee.gif" width="64" align="absmiddle">
 
 #### About Me
 
