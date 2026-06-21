@@ -1,6 +1,5 @@
-> *"My mission is to make human life more efficient and optimized through technology."*
 ### Hello, I'm Isa <img src="https://media.tenor.com/ZCET1qU4jhAAAAAj/cat-coffee.gif" width="64" align="absmiddle">
-
+> *"My mission is to make human life more efficient and optimized through technology."*
 #### About Me
 
 My journey in the software world began intensely with **Web Development**, where I gained solid experience in modern web technologies. However, my desire to dive deeper into technology and my curiosity about the underlying logic of machines shifted my route to the intersection of hardware and software.
