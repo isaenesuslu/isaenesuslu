@@ -5,7 +5,7 @@ I am deeply focused on Edge AI and building intelligent systems at the intersect
 
 On the hardware side, I am passionately diving into Rust to write safe, high-performance code for embedded systems and robotics. My endgame? To playfully smash the worlds of AI and Robotics together and see what kind of intelligent physical systems emerge.
 
-Contact me: [LinkedIn](https://linkedin.com/in/isaenesuslu) or [Website (soon)](https://www.youtube.com/watch?v=I-sH53vXP2A&list=RDI-sH53vXP2A&start_radio=1)
+Check it: [LinkedIn](https://linkedin.com/in/isaenesuslu) or [Website (soon)](https://www.youtube.com/watch?v=I-sH53vXP2A&list=RDI-sH53vXP2A&start_radio=1)
 
 #
 
